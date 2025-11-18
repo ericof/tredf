@@ -1,0 +1,79 @@
+{
+  "@id": "/noticias",
+  "@type": "Document",
+  "UID": "ed082d77b7254eca9fd5bfe49bf8d76f",
+  "allow_discussion": null,
+  "blocks": {
+    "44f98f65-50ce-4800-819f-b1da7f0336a0": {
+      "@type": "title"
+    },
+    "d7ad4389-88f6-4232-a1bd-2d32cb2d4b6e": {
+      "@type": "description"
+    },
+    "e1c13fba-b06b-41a4-8471-d9f41a0dc5f9": {
+      "@type": "image",
+      "align": "center",
+      "alt": "",
+      "image_field": "image",
+      "size": "l",
+      "url": "../resolveuid/8ae10674b6bd4304a6c73984fcecdb2c"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "44f98f65-50ce-4800-819f-b1da7f0336a0",
+      "d7ad4389-88f6-4232-a1bd-2d32cb2d4b6e",
+      "e1c13fba-b06b-41a4-8471-d9f41a0dc5f9"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-11-18T18:40:20+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Not\u00edcias do site",
+  "effective": "2025-11-18T18:49:25+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "noticias",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-11-18T18:49:25+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Not\u00edcias",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-11-18T18:40:20+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-11-18T18:49:25+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

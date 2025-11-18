@@ -1,0 +1,117 @@
+{
+  "__version__": "1.0.0",
+  "_blob_files_": [
+    "a58ccead718140c1baa98d43595fc3e6/image/plone-foundation.png",
+    "8ae10674b6bd4304a6c73984fcecdb2c/image/plone-azul.png"
+  ],
+  "_data_files_": [
+    "plone_site_root/data.json",
+    "a720393b3c0240e5bd27c43fcd2cfd1e/data.json",
+    "a58ccead718140c1baa98d43595fc3e6/data.json",
+    "ed082d77b7254eca9fd5bfe49bf8d76f/data.json",
+    "8ae10674b6bd4304a6c73984fcecdb2c/data.json"
+  ],
+  "default_page": {},
+  "local_permissions": {
+    "8ae10674b6bd4304a6c73984fcecdb2c": {},
+    "a58ccead718140c1baa98d43595fc3e6": {},
+    "a720393b3c0240e5bd27c43fcd2cfd1e": {},
+    "ed082d77b7254eca9fd5bfe49bf8d76f": {},
+    "plone_site_root": {
+      "Add portal member": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator",
+          "Owner"
+        ]
+      },
+      "Content rules: Manage rules": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own password": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Set own properties": {
+        "acquire": false,
+        "roles": [
+          "Authenticated",
+          "Manager",
+          "Site Administrator"
+        ]
+      },
+      "Show Toolbar": {
+        "acquire": false,
+        "roles": [
+          "Authenticated"
+        ]
+      },
+      "plone.resource: Export ZIP file": {
+        "acquire": false,
+        "roles": [
+          "Manager"
+        ]
+      },
+      "plone.resourceeditor: Manage Sources": {
+        "acquire": false,
+        "roles": [
+          "Manager",
+          "Site Administrator"
+        ]
+      }
+    }
+  },
+  "local_roles": {
+    "8ae10674b6bd4304a6c73984fcecdb2c": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a58ccead718140c1baa98d43595fc3e6": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "a720393b3c0240e5bd27c43fcd2cfd1e": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "ed082d77b7254eca9fd5bfe49bf8d76f": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    },
+    "plone_site_root": {
+      "local_roles": {
+        "admin": [
+          "Owner"
+        ]
+      }
+    }
+  },
+  "ordering": {
+    "8ae10674b6bd4304a6c73984fcecdb2c": 42,
+    "a58ccead718140c1baa98d43595fc3e6": 0,
+    "a720393b3c0240e5bd27c43fcd2cfd1e": 41,
+    "ed082d77b7254eca9fd5bfe49bf8d76f": 43
+  },
+  "relations": []
+}
