@@ -1,0 +1,39 @@
+{
+  "@id": "/plone-day.jpeg",
+  "@type": "Image",
+  "UID": "f8f0a5d03f274c449cbe6bac459c6c67",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-11-24T18:22:41+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "plone-day.jpeg",
+  "image": {
+    "blob_path": "f8f0a5d03f274c449cbe6bac459c6c67/image/plone-day.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "plone-day.jpeg",
+    "height": 720,
+    "size": 90971,
+    "width": 1280
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-11-24T18:22:41+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "plone-day.jpeg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
